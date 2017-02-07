@@ -26,6 +26,8 @@ config.js
 **/dump.rdb
 
 config.js
+err.log
+out.log
 
 npm-debug.log
 **/bower_components
